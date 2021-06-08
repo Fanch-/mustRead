@@ -16,3 +16,6 @@ https://medium.com/leboncoin-engineering-blog/cooling-down-hot-data-from-kafka-t
 
 Test design
 https://martinfowler.com/bliki/BeckDesignRules.html
+
+JS basics : 
+https://wesbos.com/javascript
