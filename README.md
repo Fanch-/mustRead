@@ -19,3 +19,6 @@ https://martinfowler.com/bliki/BeckDesignRules.html
 
 JS basics : 
 https://wesbos.com/javascript
+
+Web Perf by url :
+https://developers.google.com/web/tools/lighthouse
