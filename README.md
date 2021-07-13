@@ -3,6 +3,7 @@ Some useful links
 
 FRONT WEB
 https://domevents.dev/
+stub dans le browser: https://requestly.io/
 
 DDD
 https://github.com/kgrzybek/modular-monolith-with-ddd
