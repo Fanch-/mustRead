@@ -23,3 +23,10 @@ https://wesbos.com/javascript
 
 Web Perf by url :
 https://developers.google.com/web/tools/lighthouse
+
+
+
+
+Vidéo éducative :
+
+https://youtu.be/w7y-1eY0mcE
